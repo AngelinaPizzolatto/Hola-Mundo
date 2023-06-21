@@ -1,7 +1,5 @@
 # Hola-Mundo
 
-Mi primer repositorio en Github
+My first repository on Github
 
-Me gustan los animales, leer y escuchar música en inglés 
-
-Mis bandas favoritas son Red Hot Chili Peppers, Foo Fighters y Nirvana 
+I like animals, reading and listening to music in English
